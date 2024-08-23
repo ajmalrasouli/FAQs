@@ -101,7 +101,7 @@ We welcome contributions! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-
+----
 - [Django](https://www.djangoproject.com/)
 - [React](https://reactjs.org/)
 - [Material-UI](https://mui.com/)
